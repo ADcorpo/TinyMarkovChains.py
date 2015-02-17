@@ -20,5 +20,4 @@ print(generator.talk())
 
 ## Interest
 
-Y'know, having fun, writing twitter bots, becoming addicted to
-meaningless sentences.
+Uhh…
